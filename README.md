@@ -2,7 +2,7 @@
 <p align="center">The most ambitious wallpaper collections</p>
 <p align="center"><img src="johnn21/brown-wooden-table-and-chairs-near-white-concrete-building-during-daytime.jpg"></p>
 <h6 align="center">Photo by <a href="https://unsplash.com/photos/9F2xgJKw62w">Thái An</a></h6>
-<p align="center"><img src="https://img.shields.io/github/watchers/NNBnh/wallpaper-collections?labelColor=181818&color=585858&style=flat-square"> <img src="https://img.shields.io/github/stars/NNBnh/wallpaper-collections?labelColor=181818&color=585858&style=flat-square"> <img src="https://img.shields.io/github/forks/NNBnh/wallpaper-collections?labelColor=181818&color=585858&style=flat-square"> <img src="https://img.shields.io/github/issues/NNBnh/wallpaper-collections?labelColor=181818&color=585858&style=flat-square">
+<p align="center"><img src="https://img.shields.io/github/watchers/NNBnh/wallpaper-collections?labelColor=181818&color=585858&style=flat-square"> <img src="https://img.shields.io/github/stars/NNBnh/wallpaper-collections?labelColor=181818&color=585858&style=flat-square"> <img src="https://img.shields.io/github/forks/NNBnh/wallpaper-collections?labelColor=181818&color=585858&style=flat-square"> <img src="https://img.shields.io/github/issues/NNBnh/wallpaper-collections?labelColor=181818&color=585858&style=flat-square"></p>
 
 ## About
 My personal wallpaper archive, each directory corresponds to their [author](#credits)
