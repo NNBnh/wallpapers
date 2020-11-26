@@ -21,12 +21,10 @@ My personal wallpaper archive, each directory corresponds to their [author](#cre
 - `ffra/`: [FFra](https://www.deviantart.com/ffra)
 - `i5yal/`: [i5yal](https://www.deviantart.com/i5yal)
 - `banishment/`: [Banishment](https://www.pixiv.net/en/users/23223750)
-
 - `brown-concrete-house-surrounded-by-plants.jpg`: [Tôn Thất Phước Điền](https://unsplash.com/@fodyne)
 - `gray-garbage-bin-on-body-of-water.jpg`: [Doruk Yemenici](https://unsplash.com/@dorukyemenici)
 - `tri-sphere.png`: [Passiert](https://www.deviantart.com/passiert)
-
 - `splatoon2.mp4`: From [Splatoon 2](https://splatoon2.nintendo.com) recorded by [Rustic_Fall](https://steamcommunity.com/id/Rustic_Fall/myworkshopfiles)
-- `splatoon2-loading.mp4`: From [Splatoon 2](https://splatoon2.nintendo.com) recorded by [Pick Pickpickles](https://www.youtube.com/user/Administrator3313)
+- `splatoon2-loading.mp4`: From [Splatoon 2](https://splatoon2.nintendo.com) recorded by [David Winzeler](https://www.youtube.com/channel/UCSPdoTmEpPg8DNHhNSztAxQ)
 - `fez.mp4`: From [FEZ](http://fezgame.com) make by [MKVDB Wallpapers](https://www.youtube.com/channel/UCSl1AMD792cmQeTSZF1oVzg)
 - `oneshot.mp4`: From [Oneshot](https://futurecat.itch.io/oneshot) make by [FredoFox](https://steamcommunity.com/id/fredo62630/myworkshopfiles)
