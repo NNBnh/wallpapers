@@ -22,6 +22,7 @@ Special thanks to:
 - `ffra/`: [FFra](https://www.deviantart.com/ffra)
 - `i5yal/`: [i5yal](https://www.deviantart.com/i5yal)
 - `banishment/`: [Banishment](https://www.pixiv.net/en/users/23223750)
+- `rose-pine/`: [Rosé Pine wallpapers](https://github.com/rose-pine/wallpapers) by [ThatOneCalculator](https://github.com/thatonecalculator)
 - `brown-concrete-house-surrounded-by-plants.jpg`: [Tôn Thất Phước Điền](https://unsplash.com/@fodyne)
 - `gray-garbage-bin-on-body-of-water.jpg`: [Doruk Yemenici](https://unsplash.com/@dorukyemenici)
 - `tri-sphere.png`: [Passiert](https://www.deviantart.com/passiert)
