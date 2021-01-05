@@ -33,6 +33,7 @@ Here is a list of live wallpapers that cannot be included in this repo because t
 - [Splatoon 2 Loading Screen](https://www.youtube.com/watch?v=CxYA4KzaY54): From [Splatoon 2](https://splatoon2.nintendo.com) recorded by [David Winzeler](https://www.youtube.com/channel/UCSPdoTmEpPg8DNHhNSztAxQ)
 - [FEZ Day and Night](https://www.youtube.com/watch?v=kUyhvOZTlzM): From [FEZ](http://fezgame.com) make by [MKVDB Wallpapers](https://www.youtube.com/channel/UCSl1AMD792cmQeTSZF1oVzg)
 - [Oneshot](https://steamcommunity.com/sharedfiles/filedetails/?id=1119883896): From [Oneshot](https://futurecat.itch.io/oneshot) make by [FredoFox](https://steamcommunity.com/id/fredo62630/myworkshopfiles)
+- [Snail's House - Morph](https://www.youtube.com/watch?v=EfuFyKrjCSo): Make by [Somon](http://twitter.com/somon_png) and [Soresaki](https://twitter.com/1100_2299)
 
 > <h1 align="center">Made with ❤️ by <a href="https://github.com/NNBnh"><i>NNB</i></a></h1>
 >
