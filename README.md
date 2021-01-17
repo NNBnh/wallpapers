@@ -35,6 +35,10 @@ Here is a list of live wallpapers that cannot be included in this repo because t
 - [Oneshot](https://steamcommunity.com/sharedfiles/filedetails/?id=1119883896): From [Oneshot](https://futurecat.itch.io/oneshot) make by [FredoFox](https://steamcommunity.com/id/fredo62630/myworkshopfiles)
 - [Snail's House - Morph](https://www.youtube.com/watch?v=EfuFyKrjCSo): Make by [Somon](http://twitter.com/somon_png) and [Soresaki](https://twitter.com/1100_2299)
 
-> <h1 align="center">Made with ❤️ by <a href="https://github.com/NNBnh"><i>NNB</i></a></h1>
+<br><br><br><br>
+
+---
+
+> <h1 align="center">Made with :heart: by <a href="https://github.com/NNBnh"><i>NNB</i></a></h1>
 >
-> <p align="center"><a href="https://www.buymeacoffee.com/nnbnh"><img src="https://img.shields.io/badge/buy_me_a_coffee%20-%23F7CA88.svg?logo=buy-me-a-coffee&logoColor=333333&style=for-the-badge" alt="Buy Me a Snack (Buy Me a Coffee)"></p>
+> <p align="center"><a href="https://www.buymeacoffee.com/nnbnh"><img src="https://img.shields.io/badge/buy_me_a_coffee%20-%23F7CA88.svg?logo=buy-me-a-coffee&logoColor=333333&style=for-the-badge" alt="Buy Me a Coffee"></p>
