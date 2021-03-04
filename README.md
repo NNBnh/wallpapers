@@ -29,6 +29,7 @@ Special thanks to:
 - `tri-sphere.png`: [Passiert](https://www.deviantart.com/passiert)
 - `vinyl.jpg`: [???](https://wallhaven.cc/w/8o7lmo)
 - `porco-rosso.png`: [???](https://wallhaven.cc/w/95dd9x)
+- `pantone.jpg`: [Pantone](https://wallhaven.cc/w/g8pdpe)
 
 ## Honorable Mention
 Here is a list of live wallpapers that cannot be included in this repo because they are too large:
