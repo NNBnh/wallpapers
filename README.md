@@ -27,6 +27,8 @@ Special thanks to:
 - `brown-concrete-house-surrounded-by-plants.jpg`: [Tôn Thất Phước Điền](https://unsplash.com/@fodyne)
 - `gray-garbage-bin-on-body-of-water.jpg`: [Doruk Yemenici](https://unsplash.com/@dorukyemenici)
 - `tri-sphere.png`: [Passiert](https://www.deviantart.com/passiert)
+- `vinyl.jpg`: [???](https://wallhaven.cc/w/8o7lmo)
+- `porco-rosso.png`: [???](https://wallhaven.cc/w/95dd9x)
 
 ## Honorable Mention
 Here is a list of live wallpapers that cannot be included in this repo because they are too large:
