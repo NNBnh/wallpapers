@@ -2,7 +2,7 @@
 <p align="center">The most ambitious wallpaper collections</p>
 <p align="center"><img src="johnn21/brown-wooden-table-and-chairs-near-white-concrete-building-during-daytime.jpg"></p>
 <h6 align="center">Photo by <a href="https://unsplash.com/photos/9F2xgJKw62w">Thái An</a></h6>
-<p align="center"><img src="https://img.shields.io/github/watchers/NNBnh/wallpaper-collections?labelColor=585858&color=F7CA88&style=flat-square"> <img src="https://img.shields.io/github/stars/NNBnh/wallpaper-collections?labelColor=585858&color=F7CA88&style=flat-square"> <img src="https://img.shields.io/github/forks/NNBnh/wallpaper-collections?labelColor=585858&color=F7CA88&style=flat-square"> <img src="https://img.shields.io/github/issues/NNBnh/wallpaper-collections?labelColor=585858&color=F7CA88&style=flat-square"></p>
+<p align="center"><a href="https://github.com/NNBnh/wallpaper-collections/watchers"><img src="https://img.shields.io/github/watchers/NNBnh/wallpaper-collections?labelColor=585858&color=F7CA88&style=flat-square"></a> <a href="https://github.com/NNBnh/wallpaper-collections/stargazers"><img src="https://img.shields.io/github/stars/NNBnh/wallpaper-collections?labelColor=585858&color=F7CA88&style=flat-square"></a> <a href="https://github.com/NNBnh/wallpaper-collections/network/members"><img src="https://img.shields.io/github/forks/NNBnh/wallpaper-collections?labelColor=585858&color=F7CA88&style=flat-square"></a> <a href="https://github.com/NNBnh/wallpaper-collections/issues"><img src="https://img.shields.io/github/issues/NNBnh/wallpaper-collections?labelColor=585858&color=F7CA88&style=flat-square"></a></p>
 
 ## About
 My personal wallpaper archive, each directory corresponds to their [author](#credits)
@@ -43,6 +43,6 @@ Here is a list of live wallpapers that cannot be included in this repo because t
 
 ---
 
-> <h1 align="center">Made with :heart: by <a href="https://github.com/NNBnh"><i>NNB</i></a></h1>
+> <h1 align="center">Made with ❤️ by <a href="https://github.com/NNBnh"><i>NNB</i></a></h1>
 >
 > <p align="center"><a href="https://www.buymeacoffee.com/nnbnh"><img src="https://img.shields.io/badge/buy_me_a_coffee%20-%23F7CA88.svg?logo=buy-me-a-coffee&logoColor=333333&style=for-the-badge" alt="Buy Me a Coffee"></p>
