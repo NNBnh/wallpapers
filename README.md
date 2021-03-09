@@ -11,6 +11,7 @@ My personal wallpaper archive, each directory corresponds to their [author](#cre
 - [About](#about)
 - [Contents](#contents)
 - [Easter egg](https://youtu.be/cvoyUIIAdrY)
+- [Credits](#credits)
 - [Honorable Mention](#honorable-mention)
 
 ## Credits
