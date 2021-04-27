@@ -1,5 +1,5 @@
 <h1 align="center">NNB's wallpaper collections</h1>
-<p align="center">The most ambitious wallpaper collections</p>
+<p align="center">Just my personal wallpaper collections</p>
 <p align="center"><img src="johnn21/brown-wooden-table-and-chairs-near-white-concrete-building-during-daytime.jpg"></p>
 <p align="center">Photo by <a href="https://unsplash.com/photos/9F2xgJKw62w">Thái An</a></p>
 <p align="center"><a href="https://github.com/NNBnh/wallpaper-collections/watchers"><img src="https://img.shields.io/github/watchers/NNBnh/wallpaper-collections?labelColor=585858&color=F7CA88&style=flat-square"></a> <a href="https://github.com/NNBnh/wallpaper-collections/stargazers"><img src="https://img.shields.io/github/stars/NNBnh/wallpaper-collections?labelColor=585858&color=F7CA88&style=flat-square"></a> <a href="https://github.com/NNBnh/wallpaper-collections/network/members"><img src="https://img.shields.io/github/forks/NNBnh/wallpaper-collections?labelColor=585858&color=F7CA88&style=flat-square"></a> <a href="https://github.com/NNBnh/wallpaper-collections/issues"><img src="https://img.shields.io/github/issues/NNBnh/wallpaper-collections?labelColor=585858&color=F7CA88&style=flat-square"></a></p>
