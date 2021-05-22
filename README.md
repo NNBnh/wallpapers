@@ -1,7 +1,7 @@
 <h1 align="center">NNB's wallpaper collections</h1>
 <p align="center">Just my personal wallpaper collections</p>
-<p align="center"><img src="johnn21/brown-wooden-table-and-chairs-near-white-concrete-building-during-daytime.jpg"></p>
-<p align="center">Photo by <a href="https://unsplash.com/photos/9F2xgJKw62w">Thái An</a></p>
+<p align="center"><img src="brown-concrete-house-surrounded-by-plants.jpg"></p>
+<p align="center">Photo by <a href="https://unsplash.com/@fodyne">Tôn Thất Phước Điền</a></p>
 <p align="center"><a href="https://github.com/NNBnh/wallpaper-collections/watchers"><img src="https://img.shields.io/github/watchers/NNBnh/wallpaper-collections?labelColor=585858&color=F7CA88&style=flat-square"></a> <a href="https://github.com/NNBnh/wallpaper-collections/stargazers"><img src="https://img.shields.io/github/stars/NNBnh/wallpaper-collections?labelColor=585858&color=F7CA88&style=flat-square"></a> <a href="https://github.com/NNBnh/wallpaper-collections/network/members"><img src="https://img.shields.io/github/forks/NNBnh/wallpaper-collections?labelColor=585858&color=F7CA88&style=flat-square"></a> <a href="https://github.com/NNBnh/wallpaper-collections/issues"><img src="https://img.shields.io/github/issues/NNBnh/wallpaper-collections?labelColor=585858&color=F7CA88&style=flat-square"></a></p>
 
 ## 💡 About
@@ -9,21 +9,21 @@ My personal wallpaper archive, each directory corresponds to their [author](#-cr
 
 ## 💌 Credits
 Special thanks to:
-- `johnn21/`: [Thái An](https://unsplash.com/@johnn21)
-- `florenciaviadana/`: [Florencia Viadana](https://unsplash.com/@florenciaviadana)
-- `rohittandon/`: [Rohit Tandon](https://unsplash.com/@rohittandon)
-- `greentoadmx/`: [GreenToadMX](https://www.deviantart.com/greentoadmx)
-- `ffra/`: [FFra](https://www.deviantart.com/ffra)
-- `i5yal/`: [i5yal](https://www.deviantart.com/i5yal)
-- `banishment/`: [Banishment](https://www.pixiv.net/en/users/23223750)
-- `rose-pine/`: [Rosé Pine wallpapers](https://github.com/rose-pine/wallpapers) by [ThatOneCalculator](https://github.com/thatonecalculator)
-- `live-from-squid-research-lab`: [Live from Squid Research Lab](https://splatoonus.tumblr.com)
-- `brown-concrete-house-surrounded-by-plants.jpg`: [Tôn Thất Phước Điền](https://unsplash.com/@fodyne)
-- `gray-garbage-bin-on-body-of-water.jpg`: [Doruk Yemenici](https://unsplash.com/@dorukyemenici)
-- `tri-sphere.png`: [Passiert](https://www.deviantart.com/passiert)
-- `vinyl.jpg`: [???](https://wallhaven.cc/w/8o7lmo)
-- `porco-rosso.png`: [???](https://wallhaven.cc/w/95dd9x)
-- `pantone.jpg`: [Pantone](https://wallhaven.cc/w/g8pdpe)
+- `johnn21/` by [Thái An](https://unsplash.com/@johnn21)
+- `florenciaviadana/` by [Florencia Viadana](https://unsplash.com/@florenciaviadana)
+- `rohittandon/` by [Rohit Tandon](https://unsplash.com/@rohittandon)
+- `greentoadmx/` by [GreenToadMX](https://www.deviantart.com/greentoadmx)
+- `ffra/` by [FFra](https://www.deviantart.com/ffra)
+- `i5yal/` by [i5yal](https://www.deviantart.com/i5yal)
+- `banishment/` by [Banishment](https://www.pixiv.net/en/users/23223750)
+- `rose-pine/` from [Rosé Pine wallpapers](https://github.com/rose-pine/wallpapers) by [ThatOneCalculator](https://github.com/thatonecalculator)
+- `live-from-squid-research-lab` by [Live from Squid Research Lab](https://splatoonus.tumblr.com)
+- `brown-concrete-house-surrounded-by-plants.jpg` by [Tôn Thất Phước Điền](https://unsplash.com/@fodyne)
+- `gray-garbage-bin-on-body-of-water.jpg` by [Doruk Yemenici](https://unsplash.com/@dorukyemenici)
+- `tri-sphere.png` by [Passiert](https://www.deviantart.com/passiert)
+- `vinyl.jpg` by [???](https://wallhaven.cc/w/8o7lmo)
+- `porco-rosso.png` by [???](https://wallhaven.cc/w/95dd9x)
+- `pantone.jpg` by [Pantone](https://wallhaven.cc/w/g8pdpe)
 
 ## 📢 Honorable Mention
 Here is a list of live wallpapers that cannot be included in this repo because they are too large:
