@@ -1,6 +1,6 @@
 <h1 align="center">NNB's wallpaper collections</h1>
 <p align="center">Just my personal wallpaper collections</p>
-<h2 align="center"><a href="https://www.youtube.com/watch?v=S7RgFM7PHLg"><img src="brown-concrete-house-surrounded-by-plants.jpg" alt="🥚 Easter egg"></a> </h2>
+<p align="center"><img src="brown-concrete-house-surrounded-by-plants.jpg"></p>
 <p align="center">Photo by <a href="https://unsplash.com/@fodyne">Tôn Thất Phước Điền</a></p>
 <p align="center"><a href="https://github.com/NNBnh/wallpaper-collections/watchers"><img src="https://img.shields.io/github/watchers/NNBnh/wallpaper-collections?labelColor=585858&color=F7CA88&style=flat-square"></a> <a href="https://github.com/NNBnh/wallpaper-collections/stargazers"><img src="https://img.shields.io/github/stars/NNBnh/wallpaper-collections?labelColor=585858&color=F7CA88&style=flat-square"></a> <a href="https://github.com/NNBnh/wallpaper-collections/network/members"><img src="https://img.shields.io/github/forks/NNBnh/wallpaper-collections?labelColor=585858&color=F7CA88&style=flat-square"></a> <a href="https://github.com/NNBnh/wallpaper-collections/issues"><img src="https://img.shields.io/github/issues/NNBnh/wallpaper-collections?labelColor=585858&color=F7CA88&style=flat-square"></a></p>
 
@@ -39,4 +39,5 @@ Here is a list of live wallpapers that cannot be included in this repo because t
 
 > <h1 align="center">Made with ❤️ by <a href="https://github.com/NNBnh"><i>NNB</i></a></h1>
 >
-> <p align="center"><a href="https://www.buymeacoffee.com/nnbnh"><img src="https://img.shields.io/badge/buy_me_a_coffee%20-%23F7CA88.svg?logo=buy-me-a-coffee&logoColor=333333&style=for-the-badge" alt="Buy Me a Coffee"></p>
+> <p align="center"><a href="https://www.buymeacoffee.com/nnbnh"><img src="https://img.shields.io/badge/buy_me_a_coffee%20-%23F7CA88.svg?logo=buy-me-a-coffee&logoColor=333333&style=for-the-badge" alt="Buy Me a Coffee"></a></p>
+> <p align="right"><a href="https://www.youtube.com/watch?v=S7RgFM7PHLg" title="Easter egg">🥚</a></p>
