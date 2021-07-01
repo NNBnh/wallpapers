@@ -2,7 +2,6 @@
 <p align="center">Just my personal wallpaper collections</p>
 <p align="center"><img src="brown-concrete-house-surrounded-by-plants.jpg"></p>
 <p align="center">Photo by <a href="https://unsplash.com/@fodyne">Tôn Thất Phước Điền</a></p>
-<p align="center"><a href="https://github.com/NNBnh/wallpaper-collections/watchers"><img src="https://img.shields.io/github/watchers/NNBnh/wallpaper-collections?labelColor=585858&color=F7CA88&style=flat-square"></a> <a href="https://github.com/NNBnh/wallpaper-collections/stargazers"><img src="https://img.shields.io/github/stars/NNBnh/wallpaper-collections?labelColor=585858&color=F7CA88&style=flat-square"></a> <a href="https://github.com/NNBnh/wallpaper-collections/network/members"><img src="https://img.shields.io/github/forks/NNBnh/wallpaper-collections?labelColor=585858&color=F7CA88&style=flat-square"></a> <a href="https://github.com/NNBnh/wallpaper-collections/issues"><img src="https://img.shields.io/github/issues/NNBnh/wallpaper-collections?labelColor=585858&color=F7CA88&style=flat-square"></a></p>
 
 ## 💡 About
 My personal wallpaper archive, each directory corresponds to their [author](#-credits)
