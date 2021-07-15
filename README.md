@@ -23,6 +23,7 @@ Special thanks to:
 - `vinyl.jpg` by [???](https://wallhaven.cc/w/8o7lmo)
 - `porco-rosso.png` by [???](https://wallhaven.cc/w/95dd9x)
 - `pantone.jpg` by [Pantone](https://wallhaven.cc/w/g8pdpe)
+- `godot-iphone-wallpapers.png` by [`u/jwfrosty`](https://www.reddit.com/user/jwfrosty) ([Reddit post](https://www.reddit.com/r/godot/comments/of3fqj/godot_iphone_wallpapers))
 
 ## 📢 Honorable Mention
 Here is a list of live wallpapers that cannot be included in this repo because they are too large:
